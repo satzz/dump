@@ -29,5 +29,6 @@
 
 - ソファとクッション
   - http://tokyo.craigslist.jp/fuo/5321208329.html
-  - ![couch](http://images.craigslist.org/00j0j_arNoxOiH1aK_600x450.jpg)
+
+![couch](http://images.craigslist.org/00j0j_arNoxOiH1aK_600x450.jpg)
 
