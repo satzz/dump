@@ -13,10 +13,6 @@
   - http://tokyo.craigslist.jp/fuo/5321247817.html
   - ![image](http://images.craigslist.org/00202_57xVxX7vcnA_600x450.jpg)
 
-- 虫カゴ
-  - http://tokyo.craigslist.jp/tag/5321169138.html
-  - ![image](http://images.craigslist.org/00c0c_fkjndZsZCmp_600x450.jpg)
-
 - 無印ポリプロピレンラック
   - http://tokyo.craigslist.jp/fuo/5321145334.html
   - ![image](http://images.craigslist.org/00P0P_cFh7UTgesz5_600x450.jpg)
@@ -44,7 +40,7 @@
 **成約済**: *初めてのPython*, *XBeeで作るワイヤレスセンサーネットワーク*, *実践ハイパフォーマンスMySQL第2版*
 ![image](https://photos-6.dropbox.com/t/2/AACtedasK9bSMzGEHO16zT9FXRTS2RLmH7RKvSg3P-D5NA/12/561462/jpeg/32x32/3/1447912800/0/2/2015-11-19%2010.44.14.jpg/EM-GThjzs4v3AyABKAE/o9wEmxyiLmFR49MFXXG-G8ayF6sU0fyXM63hJu9LCNE?size_mode=2&size=1024x768)
 
-**成約済**: *詳解MySQL*
+**成約済**: *詳解MySQL*, *WEB+DB PRESS Vol.64*
 
 ![image](https://photos-6.dropbox.com/t/2/AACUyX1q93o7bXWqAXAj3XOQe66rSzwWVdGaK0axSZ7F0g/12/561462/jpeg/32x32/3/1447920000/0/2/2015-11-19%2011.44.06.jpg/EM-GThixtIv3AyABKAE/c0XxacjuYBMoZzgsYCNhifusMvllZWJa78nAajqa-dQ?size_mode=2&size=1024x768)
 
@@ -74,5 +70,10 @@
 - キャスターつきチェア
   - http://tokyo.craigslist.jp/fuo/5321162292.html
   - ![image](http://images.craigslist.org/00b0b_1M4Gr1ug5i6_600x450.jpg)
+
+- 虫カゴ
+  - http://tokyo.craigslist.jp/tag/5321169138.html
+  - ![image](http://images.craigslist.org/00c0c_fkjndZsZCmp_600x450.jpg)
+
 
 
