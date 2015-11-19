@@ -36,4 +36,8 @@
 - ソファとクッション
   - http://tokyo.craigslist.jp/fuo/5321208329.html
   - ![couch](http://images.craigslist.org/00j0j_arNoxOiH1aK_600x450.jpg)
+- パーティクルボードの棚
+  - http://tokyo.craigslist.jp/fuo/5322372660.html
+  - ![image](http://images.craigslist.org/00303_hPGMBIYArmm_600x450.jpg)
+  
 
