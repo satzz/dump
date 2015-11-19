@@ -69,7 +69,7 @@
 
 ![image](https://photos-3.dropbox.com/t/2/AABSvGHdjl-JTmO7uM7DG0ZASmPMoVtyJIZZY0aCtjbVvw/12/561462/jpeg/32x32/3/1447970400/0/2/2015-11-20%2000.00.38.jpg/EM-GThiYtYv3AyABKAE/5iJfdZhSpsBowcbcMMw1S16UjtZn_qsX-xzo3qWph4o?size_mode=2&size=1024x768)
 
-# 処分済
+# 成約済
 
 - キャスターつきチェア
   - http://tokyo.craigslist.jp/fuo/5321162292.html
