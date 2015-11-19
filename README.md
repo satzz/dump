@@ -29,9 +29,6 @@
   - http://tokyo.craigslist.jp/fuo/5321148548.html
   - ![image](http://images.craigslist.org/00d0d_49ECom8Kov8_600x450.jpg)
 
-- キャスターつきチェア
-  - http://tokyo.craigslist.jp/fuo/5321162292.html
-  - ![image](http://images.craigslist.org/00b0b_1M4Gr1ug5i6_600x450.jpg)
 
 - ソファとクッション
   - http://tokyo.craigslist.jp/fuo/5321208329.html
@@ -51,5 +48,10 @@
 
 ![image](https://photos-4.dropbox.com/t/2/AAD_iXXP2NRswmeLkUWH8kfJK57Gfzx-gmiK5SwM7pjELg/12/561462/jpeg/32x32/3/1447916400/0/2/2015-11-19%2011.36.01.jpg/EM-GThixtIv3AyABKAE/YkXNEYDRP89hBptnQye3AwlHcZMncNBNzPHD6snixMQ?size_mode=2&size=1024x768)
 
+# 処分済
+
+- キャスターつきチェア
+  - http://tokyo.craigslist.jp/fuo/5321162292.html
+  - ![image](http://images.craigslist.org/00b0b_1M4Gr1ug5i6_600x450.jpg)
 
 
