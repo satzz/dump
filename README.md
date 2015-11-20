@@ -35,6 +35,7 @@
   - ![image](http://images.craigslist.org/00303_hPGMBIYArmm_600x450.jpg)
 
 # 書籍
+* 価格は応相談です。Amazon中古価格の何割か、とか。
 
 ## 技術書
 
