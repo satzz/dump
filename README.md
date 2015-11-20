@@ -72,6 +72,11 @@
 
 ![image](https://photos-6.dropbox.com/t/2/AADfKzyHZZuUeLvCCfK2OElG5-odkIxLpxaDohtonos23A/12/561462/jpeg/32x32/3/1448031600/0/2/2015-11-20%2019.03.25.jpg/EM-GThiQtov3AyABKAE/A7vlAGlgfAsGJpyDKBT2BrE_oMHVkRhN_Av7G6cLoB4?size_mode=3&size=1024x768)
 
+![image](https://photos-2.dropbox.com/t/2/AAB6VcFQh-Xmzk-FAPwEzssVQnpKDK9vFKZcZQL0ViUL-Q/12/561462/jpeg/32x32/3/1448053200/0/2/2015-11-20%2021.27.10.jpg/EM-GThj2uYv3AyABKAE/n0rc8Vtbj-_MQCHjHq3W4yhWCWAMoMy3G4Dntgy2ADw?size_mode=3&size=1024x768)
+
+
+
+
 ## ほか
 **成約済**:*フューチャー・オブ・ワーク*, *ウィニング*,*ブラックスワン*上,*山形道場*,*IBM奇跡の”ワトソン”プロジェクト*
 
@@ -102,6 +107,7 @@
 
 ![image](https://photos-5.dropbox.com/t/2/AAAIXLDvp86WVL3ux4DiGGuxxNPUlJNaC7sFeH7ePE6nGg/12/561462/jpeg/32x32/3/1448031600/0/2/2015-11-20%2018.48.20.jpg/EM-GThiQtov3AyABKAE/AoOGE3AXuBLAz-1ked1UXKCavTcb54jWQapd5HTsf2A?size_mode=3&size=1024x768)
 
+![image](https://photos-2.dropbox.com/t/2/AAD73Cwcp4ReJNDzA24kjuHnO1slTlknrbzvltzT8KqJow/12/561462/jpeg/32x32/3/1448053200/0/2/2015-11-20%2021.19.55.jpg/EM-GThj2uYv3AyABKAE/20v-qLVx1XyhMDXnEQUrWnFILu6Qo6cT6qYWWuKJ86Q?size_mode=3&size=1024x768)
 
 # 成約済
 
