@@ -34,6 +34,9 @@
   - http://tokyo.craigslist.jp/fuo/5322372660.html
   - ![image](http://images.craigslist.org/00303_hPGMBIYArmm_600x450.jpg)
 
+- ワイヤーラック
+  - http://tokyo.craigslist.jp/fuo/5324307936.html
+  - ![image](http://images.craigslist.org/00k0k_7mSRtbuzNjQ_600x450.jpg)
 # 書籍
 * 価格は応相談です。Amazon中古価格の何割か、とか。
 
