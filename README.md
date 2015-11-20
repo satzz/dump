@@ -38,9 +38,14 @@
   - http://tokyo.craigslist.jp/fuo/5324307936.html
   - ![image](http://images.craigslist.org/00k0k_7mSRtbuzNjQ_600x450.jpg)
 
-- 無印パルプボードボックス(6本)
+- 無印パルプボードボックス（太）
+  - 同じのが6本あります
   - http://tokyo.craigslist.jp/fuo/5324570831.html
   - ![image](http://images.craigslist.org/01313_eoZcfzwlWlj_600x450.jpg)
+
+- 無印パルプボードボックス（細）
+  - http://tokyo.craigslist.jp/fuo/5324630326.html
+  - ![image](http://images.craigslist.org/00p0p_33F3pAY2vou_600x450.jpg)
 
 # 書籍
 * 価格は応相談です。Amazon中古価格の何割か、とか。
