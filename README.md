@@ -55,14 +55,26 @@
 
 
 ## ほか
+**成約済**:*フューチャー・オブ・ワーク*, *ウィニング*,*ブラックスワン*上,*山形道場*,*IBM奇跡の”ワトソン”プロジェクト*
 
 ![image](https://photos-6.dropbox.com/t/2/AADvpdLOC_2k38uiGAi9xZmB3arj0abLVy-VhUwC3y4HmA/12/561462/jpeg/32x32/3/1447970400/0/2/2015-11-20%2000.38.31.jpg/EM-GThiVtYv3AyABKAE/PoGgxZiiBW3ZcOfFTWqtChlR0y672U6wPSSEAWGbF4w?size_mode=2&size=1024x768)
 
+
+**成約済**:*知識創造企業*,*影響力の武器*
+
 ![image](https://photos-1.dropbox.com/t/2/AACmn50b1wgM0JHFxvfwBN1uW_UhpNDDpDLVC9prmWEnzg/12/561462/jpeg/32x32/3/1447970400/0/2/2015-11-20%2000.47.24.jpg/EM-GThiVtYv3AyABKAE/eTN-gyTDxjzl-WJMtCH4Bb_FYokLTzx7yAwv95xuRio?size_mode=2&size=1024x768)
+
+
+**成約済**:*知の欺瞞*,*アメリカCEOのベストビジネス書100*,*ヨーロッパ鉄道の旅*,*コトラーのマーケティング思考法*,*フォン・ノイマン*,*チューリング*,*レヴィ=ストロース伝*,*情報文明論*,*数学ガール*,*チョムスキー*,*数学ガール*
+
 
 ![image](https://photos-5.dropbox.com/t/2/AADC-gqJdIsC1Nl3ecvmv_6h1EVwXc2YsK9d-8zF6fP1VA/12/561462/jpeg/32x32/3/1447970400/0/2/2015-11-20%2001.42.28.jpg/EM-GThiUtYv3AyABKAE/HrSpFKKzewIAOw7gmDAAXy6U6p5Ki8AIpCnKm14P7Lc?size_mode=2&size=1024x768)
 
+**成約済**: *ビル・ゲイツ*, *ワンダフルライフ*, *フラット化する世界(上下)*
 ![image](https://photos-4.dropbox.com/t/2/AACWsKY36cuwWiNmOzXeoSuoLJrnoYn09IVnvdfZEdSU5g/12/561462/jpeg/32x32/3/1447970400/0/2/2015-11-20%2001.32.58.jpg/EM-GThiVtYv3AyABKAE/7uVe4YQp5gJnrvqc_OtUZFmLaIwXhL_rIKjNVm7N_cY?size_mode=2&size=1024x768)
+
+
+**成約済**: *アーキテクチャの生態系*, *ウェブ社会の思想*, *社会システム理論*,*不格好経営*
 
 ![image](https://photos-3.dropbox.com/t/2/AABSvGHdjl-JTmO7uM7DG0ZASmPMoVtyJIZZY0aCtjbVvw/12/561462/jpeg/32x32/3/1447970400/0/2/2015-11-20%2000.00.38.jpg/EM-GThiYtYv3AyABKAE/5iJfdZhSpsBowcbcMMw1S16UjtZn_qsX-xzo3qWph4o?size_mode=2&size=1024x768)
 
