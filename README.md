@@ -37,7 +37,11 @@
 # 書籍
 * 価格は応相談です。Amazon中古価格の何割か、とか。
 
-## 技術書
+## 雑誌
+
+![image](https://photos-4.dropbox.com/t/2/AACUOOGESRCQg_oUDptLeRLv-prKNPgmHEZ9IoM2oCBkTw/12/561462/jpeg/32x32/3/1448031600/0/2/2015-11-20%2019.24.10.jpg/EM-GThiItov3AyABKAE/S2gUzIdciLOQIqyuryMqnkgKync3vyzsO5YMTouHo7Q?size_mode=3&size=1024x768)
+
+## 技術書など
 
 **成約済**: *初めてのPython*, *XBeeで作るワイヤレスセンサーネットワーク*, *実践ハイパフォーマンスMySQL第2版*,*プログラミング言語Ruby*,*Hadoop the Definitive Guide*
 ![image](https://photos-6.dropbox.com/t/2/AACtedasK9bSMzGEHO16zT9FXRTS2RLmH7RKvSg3P-D5NA/12/561462/jpeg/32x32/3/1447912800/0/2/2015-11-19%2010.44.14.jpg/EM-GThjzs4v3AyABKAE/o9wEmxyiLmFR49MFXXG-G8ayF6sU0fyXM63hJu9LCNE?size_mode=2&size=1024x768)
@@ -54,6 +58,7 @@
 
 ![image](https://photos-3.dropbox.com/t/2/AABNfakIiFzB0MYbhty3fi5Am7DG3pqn5swUAN35bnV-fA/12/561462/jpeg/32x32/3/1447970400/0/2/2015-11-20%2000.28.48.jpg/EM-GThiYtYv3AyABKAE/Qa83m_H7uJ9_3k4Cxclcekv39KrokyiD7SlmGdLzFuI?size_mode=2&size=1024x768)
 
+![image](https://photos-6.dropbox.com/t/2/AADfKzyHZZuUeLvCCfK2OElG5-odkIxLpxaDohtonos23A/12/561462/jpeg/32x32/3/1448031600/0/2/2015-11-20%2019.03.25.jpg/EM-GThiQtov3AyABKAE/A7vlAGlgfAsGJpyDKBT2BrE_oMHVkRhN_Av7G6cLoB4?size_mode=3&size=1024x768)
 
 ## ほか
 **成約済**:*フューチャー・オブ・ワーク*, *ウィニング*,*ブラックスワン*上,*山形道場*,*IBM奇跡の”ワトソン”プロジェクト*
@@ -78,6 +83,13 @@
 **成約済**: *アーキテクチャの生態系*, *ウェブ社会の思想*, *社会システム理論*,*不格好経営*
 
 ![image](https://photos-3.dropbox.com/t/2/AABSvGHdjl-JTmO7uM7DG0ZASmPMoVtyJIZZY0aCtjbVvw/12/561462/jpeg/32x32/3/1447970400/0/2/2015-11-20%2000.00.38.jpg/EM-GThiYtYv3AyABKAE/5iJfdZhSpsBowcbcMMw1S16UjtZn_qsX-xzo3qWph4o?size_mode=2&size=1024x768)
+
+![image](https://photos-4.dropbox.com/t/2/AACiF0pKRLdDMGEDHy7bQSQV4FeCCysVbTWUS4pUKHKsuw/12/561462/jpeg/32x32/3/1448031600/0/2/2015-11-20%2019.08.15.jpg/EM-GThiQtov3AyABKAE/SZKvdgeixtTxyVpY-OBkoVVzoOywPzT5qmFOYZZy3JQ?size_mode=3&size=1024x768)
+
+![image](https://photos-1.dropbox.com/t/2/AAA1h5kPNkWS2UJY08M5BT7kel4gZkSVLE784nPTIVrWBw/12/561462/jpeg/32x32/3/1448031600/0/2/2015-11-20%2018.55.48.jpg/EM-GThiQtov3AyABKAE/4KJUad1r2-7SwwI_o2_ClkPKhl8SBmRw6Xwxklv8g3M?size_mode=3&size=1024x768)
+
+![image](https://photos-5.dropbox.com/t/2/AAAIXLDvp86WVL3ux4DiGGuxxNPUlJNaC7sFeH7ePE6nGg/12/561462/jpeg/32x32/3/1448031600/0/2/2015-11-20%2018.48.20.jpg/EM-GThiQtov3AyABKAE/AoOGE3AXuBLAz-1ked1UXKCavTcb54jWQapd5HTsf2A?size_mode=3&size=1024x768)
+
 
 # 成約済
 
