@@ -41,6 +41,14 @@
 
 ![image](https://photos-4.dropbox.com/t/2/AACUOOGESRCQg_oUDptLeRLv-prKNPgmHEZ9IoM2oCBkTw/12/561462/jpeg/32x32/3/1448031600/0/2/2015-11-20%2019.24.10.jpg/EM-GThiItov3AyABKAE/S2gUzIdciLOQIqyuryMqnkgKync3vyzsO5YMTouHo7Q?size_mode=3&size=1024x768)
 
+![image](https://photos-6.dropbox.com/t/2/AAAcDOc4Ab5YQeKCJX4O_SBMfzNtHCzwMgHg0bDJfPvDeA/12/561462/jpeg/32x32/3/1448035200/0/2/2015-11-20%2019.47.55.jpg/EM-GThjCt4v3AyABKAE/11Bv8Ugysn3F0nAVyMJuZk45WLrqWocyRmkiZ38uwD0?size_mode=3&size=1024x768)
+
+![image](https://photos-5.dropbox.com/t/2/AACAkejqHFdph7wnBFcsLSuifQ4hUY-OfafalGDepcsdww/12/561462/jpeg/32x32/3/1448035200/0/2/2015-11-20%2020.13.45.jpg/EM-GThjCt4v3AyABKAE/wVpo_dgcUhl3X2cGOGhrcfnZ7Kd1IIZU_gR6mXba9SI?size_mode=3&size=1024x768)
+
+![image](https://photos-6.dropbox.com/t/2/AAChB4VD9YcqIkDkgPx3z661rtQ580oOwa-qZ7yJ-q98GA/12/561462/jpeg/32x32/3/1448035200/0/2/2015-11-20%2020.08.01.jpg/EM-GThjEt4v3AyABKAE/pBNjE-cKHS58pn61FmF8dp_kkT8CeDtaiAjMsNIzM8s?size_mode=3&size=1024x768)
+
+![image](https://photos-3.dropbox.com/t/2/AADxKjdP4ihiM9nB17mqiTUcZgwC3JKjuiQ4V7OCez169Q/12/561462/jpeg/32x32/3/1448035200/0/2/2015-11-20%2020.11.06.jpg/EM-GThjEt4v3AyABKAE/aQXHUHDTQFwTrR6vWVcuC5qHh1qSUhclWrgQEPZi6bs?size_mode=3&size=1024x768)
+
 ## 技術書など
 
 **成約済**: *初めてのPython*, *XBeeで作るワイヤレスセンサーネットワーク*, *実践ハイパフォーマンスMySQL第2版*,*プログラミング言語Ruby*,*Hadoop the Definitive Guide*
