@@ -80,6 +80,9 @@
 
 ![image](https://photos-3.dropbox.com/t/2/AABMU_dJX8l7tTnVMpbinSZRJnEbHhZ0CRIcpubxMR5AtA/12/561462/jpeg/32x32/3/1447970400/0/2/2015-11-20%2000.33.09.jpg/EM-GThiVtYv3AyABKAE/YDf3J5ej63BRDD1kRNZYd4Uy6e4ZMxvxLgP97opxt7I?size_mode=2&size=1024x768)
 
+**成約済**: *Making Things Talk*, *達人に学ぶ SQL徹底指南書*
+
+
 ![image](https://photos-3.dropbox.com/t/2/AABNfakIiFzB0MYbhty3fi5Am7DG3pqn5swUAN35bnV-fA/12/561462/jpeg/32x32/3/1447970400/0/2/2015-11-20%2000.28.48.jpg/EM-GThiYtYv3AyABKAE/Qa83m_H7uJ9_3k4Cxclcekv39KrokyiD7SlmGdLzFuI?size_mode=2&size=1024x768)
 
 
