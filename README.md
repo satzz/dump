@@ -76,7 +76,7 @@
 ![image](https://photos-4.dropbox.com/t/2/AAD_iXXP2NRswmeLkUWH8kfJK57Gfzx-gmiK5SwM7pjELg/12/561462/jpeg/32x32/3/1447916400/0/2/2015-11-19%2011.36.01.jpg/EM-GThixtIv3AyABKAE/YkXNEYDRP89hBptnQye3AwlHcZMncNBNzPHD6snixMQ?size_mode=2&size=1024x768)
 
 
-**成約済**: *詳解MySQL*, *ウェブオペレーション*
+**成約済**: *Making Things Talk*, *ウェブオペレーション*
 
 ![image](https://photos-3.dropbox.com/t/2/AABMU_dJX8l7tTnVMpbinSZRJnEbHhZ0CRIcpubxMR5AtA/12/561462/jpeg/32x32/3/1447970400/0/2/2015-11-20%2000.33.09.jpg/EM-GThiVtYv3AyABKAE/YDf3J5ej63BRDD1kRNZYd4Uy6e4ZMxvxLgP97opxt7I?size_mode=2&size=1024x768)
 
