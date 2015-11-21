@@ -106,7 +106,7 @@
 ![image](https://photos-4.dropbox.com/t/2/AACWsKY36cuwWiNmOzXeoSuoLJrnoYn09IVnvdfZEdSU5g/12/561462/jpeg/32x32/3/1447970400/0/2/2015-11-20%2001.32.58.jpg/EM-GThiVtYv3AyABKAE/7uVe4YQp5gJnrvqc_OtUZFmLaIwXhL_rIKjNVm7N_cY?size_mode=2&size=1024x768)
 
 
-**成約済**: *アーキテクチャの生態系*, *ウェブ社会の思想*, *社会システム理論*,*不格好経営*
+**成約済**: *アーキテクチャの生態系*, *ウェブ社会の思想*, *社会システム理論*,*不格好経営*,*MAKERS*
 
 ![image](https://photos-3.dropbox.com/t/2/AABSvGHdjl-JTmO7uM7DG0ZASmPMoVtyJIZZY0aCtjbVvw/12/561462/jpeg/32x32/3/1447970400/0/2/2015-11-20%2000.00.38.jpg/EM-GThiYtYv3AyABKAE/5iJfdZhSpsBowcbcMMw1S16UjtZn_qsX-xzo3qWph4o?size_mode=2&size=1024x768)
 
@@ -115,6 +115,9 @@
 ![image](https://photos-1.dropbox.com/t/2/AAA1h5kPNkWS2UJY08M5BT7kel4gZkSVLE784nPTIVrWBw/12/561462/jpeg/32x32/3/1448031600/0/2/2015-11-20%2018.55.48.jpg/EM-GThiQtov3AyABKAE/4KJUad1r2-7SwwI_o2_ClkPKhl8SBmRw6Xwxklv8g3M?size_mode=3&size=1024x768)
 
 ![image](https://photos-5.dropbox.com/t/2/AAAIXLDvp86WVL3ux4DiGGuxxNPUlJNaC7sFeH7ePE6nGg/12/561462/jpeg/32x32/3/1448031600/0/2/2015-11-20%2018.48.20.jpg/EM-GThiQtov3AyABKAE/AoOGE3AXuBLAz-1ked1UXKCavTcb54jWQapd5HTsf2A?size_mode=3&size=1024x768)
+
+**成約済**: *ストーリーとしての競争戦略*,*ビジョナリーカンパニー2*,
+
 
 ![image](https://photos-2.dropbox.com/t/2/AAD73Cwcp4ReJNDzA24kjuHnO1slTlknrbzvltzT8KqJow/12/561462/jpeg/32x32/3/1448053200/0/2/2015-11-20%2021.19.55.jpg/EM-GThj2uYv3AyABKAE/20v-qLVx1XyhMDXnEQUrWnFILu6Qo6cT6qYWWuKJ86Q?size_mode=3&size=1024x768)
 
