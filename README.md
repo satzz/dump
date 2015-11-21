@@ -79,6 +79,8 @@
 
 ![image](https://photos-3.dropbox.com/t/2/AABNfakIiFzB0MYbhty3fi5Am7DG3pqn5swUAN35bnV-fA/12/561462/jpeg/32x32/3/1447970400/0/2/2015-11-20%2000.28.48.jpg/EM-GThiYtYv3AyABKAE/Qa83m_H7uJ9_3k4Cxclcekv39KrokyiD7SlmGdLzFuI?size_mode=2&size=1024x768)
 
+
+**成約済**: *SQL徹底指南*
 ![image](https://photos-6.dropbox.com/t/2/AADfKzyHZZuUeLvCCfK2OElG5-odkIxLpxaDohtonos23A/12/561462/jpeg/32x32/3/1448031600/0/2/2015-11-20%2019.03.25.jpg/EM-GThiQtov3AyABKAE/A7vlAGlgfAsGJpyDKBT2BrE_oMHVkRhN_Av7G6cLoB4?size_mode=3&size=1024x768)
 
 ![image](https://photos-2.dropbox.com/t/2/AAB6VcFQh-Xmzk-FAPwEzssVQnpKDK9vFKZcZQL0ViUL-Q/12/561462/jpeg/32x32/3/1448053200/0/2/2015-11-20%2021.27.10.jpg/EM-GThj2uYv3AyABKAE/n0rc8Vtbj-_MQCHjHq3W4yhWCWAMoMy3G4Dntgy2ADw?size_mode=3&size=1024x768)
@@ -92,7 +94,7 @@
 ![image](https://photos-6.dropbox.com/t/2/AADvpdLOC_2k38uiGAi9xZmB3arj0abLVy-VhUwC3y4HmA/12/561462/jpeg/32x32/3/1447970400/0/2/2015-11-20%2000.38.31.jpg/EM-GThiVtYv3AyABKAE/PoGgxZiiBW3ZcOfFTWqtChlR0y672U6wPSSEAWGbF4w?size_mode=2&size=1024x768)
 
 
-**成約済**:*知識創造企業*,*影響力の武器*
+**成約済**:*知識創造企業*,*影響力の武器*,*入社1年目の教科書*
 
 ![image](https://photos-1.dropbox.com/t/2/AACmn50b1wgM0JHFxvfwBN1uW_UhpNDDpDLVC9prmWEnzg/12/561462/jpeg/32x32/3/1447970400/0/2/2015-11-20%2000.47.24.jpg/EM-GThiVtYv3AyABKAE/eTN-gyTDxjzl-WJMtCH4Bb_FYokLTzx7yAwv95xuRio?size_mode=2&size=1024x768)
 
