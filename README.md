@@ -34,9 +34,6 @@
   - http://tokyo.craigslist.jp/fuo/5322372660.html
   - ![image](http://images.craigslist.org/00303_hPGMBIYArmm_600x450.jpg)
 
-- ワイヤーラック
-  - http://tokyo.craigslist.jp/fuo/5324307936.html
-  - ![image](http://images.craigslist.org/00k0k_7mSRtbuzNjQ_600x450.jpg)
 
 - 無印パルプボードボックス（太）
   - 同じのが6本あります
@@ -140,4 +137,7 @@
   - ![image](http://images.craigslist.org/00c0c_fkjndZsZCmp_600x450.jpg)
 
 
+- ワイヤーラック
+  - http://tokyo.craigslist.jp/fuo/5324307936.html
+  - ![image](http://images.craigslist.org/00k0k_7mSRtbuzNjQ_600x450.jpg)
 
