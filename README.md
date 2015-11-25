@@ -18,13 +18,6 @@
   - http://tokyo.craigslist.jp/fuo/5321145334.html
   - ![image](http://images.craigslist.org/00P0P_cFh7UTgesz5_600x450.jpg)
 
-- 木製の長机とキャビネット
-  - http://tokyo.craigslist.jp/fuo/5321145584.html
-  - ![image](http://images.craigslist.org/01515_8tlf7TVxTOt_600x450.jpg)
-
-- タワー扇風機
-  - http://tokyo.craigslist.jp/fuo/5321148548.html
-  - ![image](http://images.craigslist.org/00d0d_49ECom8Kov8_600x450.jpg)
 
 
 - ソファとクッション
@@ -126,7 +119,7 @@
 
 ![image](https://photos-2.dropbox.com/t/2/AAD73Cwcp4ReJNDzA24kjuHnO1slTlknrbzvltzT8KqJow/12/561462/jpeg/32x32/3/1448053200/0/2/2015-11-20%2021.19.55.jpg/EM-GThj2uYv3AyABKAE/20v-qLVx1XyhMDXnEQUrWnFILu6Qo6cT6qYWWuKJ86Q?size_mode=3&size=1024x768)
 
-# 成約済
+# 成約・処分済
 
 - キャスターつきチェア
   - http://tokyo.craigslist.jp/fuo/5321162292.html
@@ -140,4 +133,12 @@
 - ワイヤーラック
   - http://tokyo.craigslist.jp/fuo/5324307936.html
   - ![image](http://images.craigslist.org/00k0k_7mSRtbuzNjQ_600x450.jpg)
+
+- タワー扇風機
+  - http://tokyo.craigslist.jp/fuo/5321148548.html
+  - ![image](http://images.craigslist.org/00d0d_49ECom8Kov8_600x450.jpg)
+
+- 木製の長机とキャビネット
+  - http://tokyo.craigslist.jp/fuo/5321145584.html
+  - ![image](http://images.craigslist.org/01515_8tlf7TVxTOt_600x450.jpg)
 
