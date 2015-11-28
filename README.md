@@ -10,14 +10,6 @@
 - 渡す手段は本郷・後楽園近辺で手渡しか、それ以外で車（レンタカーの場合日程は限られる）かの二択になりそうです
 
 
-- 小型の机
-  - http://tokyo.craigslist.jp/fuo/5321247817.html
-  - ![image](http://images.craigslist.org/00202_57xVxX7vcnA_600x450.jpg)
-
-- 無印ポリプロピレンラック
-  - http://tokyo.craigslist.jp/fuo/5321145334.html
-  - ![image](http://images.craigslist.org/00P0P_cFh7UTgesz5_600x450.jpg)
-
 
 
 - パーティクルボードの棚
@@ -26,13 +18,10 @@
 
 
 - 無印パルプボードボックス（太）
-  - 同じのが6本あります
+  - 棚板一部壊れてます
   - http://tokyo.craigslist.jp/fuo/5324570831.html
   - ![image](http://images.craigslist.org/01313_eoZcfzwlWlj_600x450.jpg)
 
-- 無印パルプボードボックス（細）
-  - http://tokyo.craigslist.jp/fuo/5324630326.html
-  - ![image](http://images.craigslist.org/00p0p_33F3pAY2vou_600x450.jpg)
 
 # 書籍
 * 価格は応相談です。Amazon中古価格の何割か、とか。
@@ -134,7 +123,7 @@
 - タワー扇風機
   - http://tokyo.craigslist.jp/fuo/5321148548.html
   - ![image](http://images.craigslist.org/00d0d_49ECom8Kov8_600x450.jpg)
-
+  
 - 木製の長机とキャビネット
   - http://tokyo.craigslist.jp/fuo/5321145584.html
   - ![image](http://images.craigslist.org/01515_8tlf7TVxTOt_600x450.jpg)
@@ -142,4 +131,19 @@
 - ソファとクッション
   - http://tokyo.craigslist.jp/fuo/5321208329.html
   - ![couch](http://images.craigslist.org/00j0j_arNoxOiH1aK_600x450.jpg)
+
+
+- 無印ポリプロピレンラック
+  - http://tokyo.craigslist.jp/fuo/5321145334.html
+  - ![image](http://images.craigslist.org/00P0P_cFh7UTgesz5_600x450.jpg)
+
+- 無印パルプボードボックス（細）
+  - http://tokyo.craigslist.jp/fuo/5324630326.html
+  - ![image](http://images.craigslist.org/00p0p_33F3pAY2vou_600x450.jpg)
+
+
+- 小型の机
+  - http://tokyo.craigslist.jp/fuo/5321247817.html
+  - ![image](http://images.craigslist.org/00202_57xVxX7vcnA_600x450.jpg)
+
 
