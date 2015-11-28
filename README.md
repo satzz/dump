@@ -22,6 +22,10 @@
   - http://tokyo.craigslist.jp/fuo/5324570831.html
   - ![image](http://images.craigslist.org/01313_eoZcfzwlWlj_600x450.jpg)
 
+- メタルラック
+  - http://tokyo.craigslist.jp/fuo/5335061790.html
+  - ![image](http://images.craigslist.org/01616_c5WaUbAFU7P_600x450.jpg)
+
 
 # 書籍
 * 価格は応相談です。Amazon中古価格の何割か、とか。
